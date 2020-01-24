@@ -2,4 +2,4 @@
 
 C++ program for creating fractal mandelbrot images.
 
-<img src="./src/mandel.jpg" alt="drawing" width="200"/>
+<img src="./src/mandel.jpg" alt="drawing" width="300"/>
