@@ -1,5 +1,13 @@
+/*
+ * BitmapInfoHeader.h
+ *
+ *  Created on: Jan 23, 2020
+ *      Author: alice
+ */
+
 #ifndef BITMAPINFOHEADER_H_
-#define BITMPAINFOHEADER_H_
+#define BITMAPINFOHEADER_H_
+
 
 #include <cstdint>
 
@@ -25,4 +33,5 @@ struct BitmapInfoHeader {
 
 }
 
-#endif
+
+#endif /* BITMAPINFOHEADER_H_ */

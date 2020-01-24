@@ -1,5 +1,13 @@
+/*
+ * BitmapFileHeader.h
+ *
+ *  Created on: Jan 23, 2020
+ *      Author: alice
+ */
+
 #ifndef BITMAPFILEHEADER_H_
 #define BITMAPFILEHEADER_H_
+
 
 #include <cstdint>
 
@@ -17,5 +25,6 @@ struct BitmapFileHeader {
 };
 
 }
+
 
 #endif /* BITMAPFILEHEADER_H_ */

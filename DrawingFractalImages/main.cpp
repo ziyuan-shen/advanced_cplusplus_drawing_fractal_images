@@ -1,5 +1,14 @@
+/*
+ * main.cpp
+ *
+ *  Created on: Jan 23, 2020
+ *      Author: alice
+ */
+
 #include <iostream>
-#include "BitmapInfoHeader"
+#include "BitmapInfoHeader.h"
+#include "BitmapFileHeader.h"
+
 using namespace std;
 
 int main() {
@@ -7,3 +16,5 @@ int main() {
 
     return 0;
 }
+
+
